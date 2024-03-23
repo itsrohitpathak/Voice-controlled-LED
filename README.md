@@ -1,6 +1,6 @@
 # Voice-controlled-LED
 Voice control automation has emerged as a promising paradigm in the realm of the
-Internet of Things (IoT), offering intuitive and convenient interaction with connected
+Internet of Things (IoT), offers intuitive and convenient interaction with connected
 devices. This project focuses on the design and implementation of a voice-controlled
 automation system for IoT devices.
 
@@ -41,16 +41,12 @@ where it can be used for the hands-free operation of medical devices,
 accessing patient records, scheduling appointments, and controlling
 environmental factors in hospital rooms.
 
-# Process Flow Diagram:
-![image](https://github.com/itsrohitpathak/Voice-controlled-LED/assets/147083120/7cd85f8f-3297-4945-843f-eeb626f39c46)
-
-Purpose & Requirements:
 # Purpose:
 ❖ The project aims to create a voice-controlled IoT system using an Arduino
 Uno and an Android device. By integrating voice recognition technology, users
 can wirelessly control a light bulb through simple voice commands.
 ❖ This project provides hands-on experience in IoT and microcontroller
-programming, and showcases the practical application of voice control in
+programming and showcases the practical application of voice control in
 home automation.
 
 # Requirements:
@@ -62,6 +58,10 @@ Arduino and the development of firmware code to interpret voice commands.
 via Bluetooth, is essential for transmitting voice commands.
 ● The project also demands a power supply to energize the system and
 appropriate safety measures to prevent electrical hazards.
+
+# Process Flow Diagram and Circuit Diagram
+![image](https://github.com/itsrohitpathak/Voice-controlled-LED/assets/147083120/7cd85f8f-3297-4945-843f-eeb626f39c46)
+![image](https://github.com/itsrohitpathak/Voice-controlled-LED/assets/147083120/cb526eb0-e275-42e7-9976-a8cc743fdd65)
 
 # PROCESS SPECIFICATION:
 1. The application first searches for the Bluetooth device.
