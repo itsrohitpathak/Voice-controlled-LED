@@ -1,3 +1,5 @@
+// This is an IoT-based Arduino-operated project using a Bluetooth module.
+
 int Red = 3;
 int Blue = 4;
 
