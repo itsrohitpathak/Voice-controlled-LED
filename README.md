@@ -1,6 +1,6 @@
 # Voice-controlled-LED
 
-Voice control automation offers intuitive and convenient interaction with IoT devices. This project focuses on designing a voice-controlled automation system for IoT devices, enabling users to control a light bulb wirelessly through simple voice commands.
+Voice control automation offers intuitive and convenient interaction with IoT devices. This project focuses on designing a voice-controlled automation system for IoT devices, enabling users to control an LED light wirelessly through simple voice commands.
 
 ## Introduction:
 In the era of IoT, voice control automation emerges as a user-friendly interface leveraging natural language processing and voice recognition technologies. This project aims to enhance convenience, accessibility, and efficiency in interacting with connected devices.
